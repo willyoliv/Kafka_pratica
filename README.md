@@ -1,4 +1,4 @@
 # Kafka_pratica
 
-#TO DO
+# To-do
 Preparar a documentação deste repositório
